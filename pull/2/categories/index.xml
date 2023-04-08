@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My New Hugo Site</title>
+    <link>https://Yao-C.github.io/gh-pages-pr-previews/pull/2/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://Yao-C.github.io/gh-pages-pr-previews/pull/2/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Pr Previews for Gh Pages</title>
+      <link>https://Yao-C.github.io/gh-pages-pr-previews/pull/2/posts/pr-previews-for-gh-pages/</link>
+      <pubDate>Sat, 08 Apr 2023 12:41:12 +0200</pubDate>
+      
+      <guid>https://Yao-C.github.io/gh-pages-pr-previews/pull/2/posts/pr-previews-for-gh-pages/</guid>
+      <description>&lt;p&gt;I am making my website&lt;/p&gt;
+&lt;p&gt;This is from second branch.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
